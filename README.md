@@ -19,5 +19,47 @@ This project combines my personal passion for LoL Esports with my interest in an
 
 ---
 
+## 📊 Core Analyses
+
+### ✅ Player-Level KPIs
+Detailed exploration of individual performance metrics for players in the **LCK** region:
+
+- **KDA Ratio**  
+  Calculated as `(Kills + Assists) / Deaths`. Handles division-by-zero cases gracefully.
+
+- **Gold Earned**  
+  - Average gold earned per player  
+  - Gold distribution by **role** and **champion**
+
+- **Damage to Champions**  
+  - Top players by average damage dealt  
+  - Breakdown by **champion** and **position**
+
+- **Vision Score**  
+  - Average vision score per player  
+  - Comparison by **role**
+
+- **Correlation Analysis**  
+  Examining relationships between:
+  - KDA  
+  - Gold Earned  
+  - Damage Dealt  
+  - Vision Score  
+  
+  Includes **correlation matrices**, **heatmaps**, and **scatter plots**.
+
+---
+
+### 🔄 Team-Level KPIs *(In Progress)*
+
+- Objective Control  
+- Win Rate  
+- Team Composition
+
+
+---
+
 ## 📁 Project Structure (Planned)
+
+
 
